@@ -18,3 +18,18 @@ D|ependancy Inversion
 
 Gang of Four, Design patterns, 23 different patterns.
 Idk how you manage to keep such intensive notes, I've completely cooked my spark for note taking???
+
+Fundamental theorem of software engineering:
+The primary reason for not combining problems is that, as human beings, we do not deal with great complexity.
+As it gets more complex, we make more mistakes.
+
+M(P+Q) > M(P) + M(P) + M(Q) => C(P+Q) > C(P) + C(Q)
+        C(P) > C(1/2*P) + C(1/2*P)
+
+By breaking down the task, into smaller and simpler steps, we can reduce the complexty overall and reduce mistakes made.
+Sometimes breaking down a task isnt the best way however, so its always important to actually understand the task at hand.
+
+For task 1.1P you need like, functions stored in other methods?? Its actually been so long since I coded dude.
+So you have your "main" then store functions in other ones, because I fucking failed I remember this much at least.
+Map size is determined during runtime.
+Note to self, he's planted shit to throw off AI, das crazy.
