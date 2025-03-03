@@ -8,4 +8,13 @@ Encapsulation ?
 
 Keep in mind SOLID principles for code development
 *wtf does SOLID mean again?*
+Violating code principles makes the code stinky, aka bad.
 
+S|ingle Use
+O|pen Close
+L|iskov substituion,,,?
+I|nterface segrgation
+D|ependancy Inversion
+
+Gang of Four, Design patterns, 23 different patterns.
+Idk how you manage to keep such intensive notes, I've completely cooked my spark for note taking???
